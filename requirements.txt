@@ -1,0 +1,8 @@
+# Python 3.9+ required (the scripts use list[...] annotations and
+# str.removeprefix). Built and tested against 3.10.
+requests>=2.31
+pillow>=10.0
+python-dotenv>=1.0
+
+# review_app.py only
+flask>=3.0

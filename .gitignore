@@ -1,0 +1,13 @@
+.env
+.venv/
+library_images/
+__pycache__/
+tagged/
+alt_text_report.csv
+alt_inventory.csv
+.exiftool_read_*.txt
+.exiftool_args_*.txt
+.exiftool_review_*.txt
+results.csv
+upload_log.csv
+retry.txt
